@@ -2,7 +2,7 @@
 require_once "../../../assets/template/layout.top.php";
 $title='Project Info';
 
-//echo $proj_id;
+echo $proj_id;
 ?>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
